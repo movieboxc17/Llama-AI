@@ -53,8 +53,6 @@ For now, Llama-AI is intended for testing, experimentation, and development only
 
 📄 License
 
-This project is released under the MIT License (or update if different).
-
 ⸻
 
 📬 Contact
