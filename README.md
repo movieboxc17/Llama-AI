@@ -57,4 +57,4 @@ For now, Llama-AI is intended for testing, experimentation, and development only
 
 📬 Contact
 
-For questions, feedback, or suggestions, feel free to open an issue on GitHub.
+For questions, feedback, or suggestions, contact: contact@portalsbase.com
